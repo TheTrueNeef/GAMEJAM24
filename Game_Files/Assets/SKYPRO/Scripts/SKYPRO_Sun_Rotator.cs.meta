@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dcb6871ecb216ab48bc841db77f716ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194191
+  packageName: SKYPRO - Sky and Clouds for URP
+  packageVersion: 1.4
+  assetPath: Assets/SKYPRO/Scripts/SKYPRO_Sun_Rotator.cs
+  uploadId: 451935

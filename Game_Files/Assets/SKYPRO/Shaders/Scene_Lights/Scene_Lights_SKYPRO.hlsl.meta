@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: db6449133ab1bd441a66c7968a1a2809
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194191
+  packageName: SKYPRO - Sky and Clouds for URP
+  packageVersion: 1.4
+  assetPath: Assets/SKYPRO/Shaders/Scene_Lights/Scene_Lights_SKYPRO.hlsl
+  uploadId: 451935

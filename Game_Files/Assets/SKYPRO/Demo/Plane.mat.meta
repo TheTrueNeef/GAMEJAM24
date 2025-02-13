@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47154f6d8e0fd2e45b0d51eb16cf0681
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194191
+  packageName: SKYPRO - Sky and Clouds for URP
+  packageVersion: 1.4
+  assetPath: Assets/SKYPRO/Demo/Plane.mat
+  uploadId: 451935
